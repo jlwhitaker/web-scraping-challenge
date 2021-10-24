@@ -1,0 +1,23 @@
+.header{
+    color:#B33B00;
+    text-align: center;
+    text-decoration: underline solid #B33B00 ;
+    object-position: center;
+    background-color: #B33B00;
+    width:100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.jumbotron{
+    margin-top:20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.btn {
+    outline-color: #B33B00;
+    border-radius: 25px;
+    font-size: larger;
+    line-height: 35px;
+}
